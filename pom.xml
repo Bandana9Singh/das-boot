@@ -18,8 +18,9 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <start-class>com.boot.App</start-class>
   </properties>
-
+    
   <dependencies>
   	<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 	<dependency>
